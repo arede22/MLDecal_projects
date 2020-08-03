@@ -1,5 +1,5 @@
 # Files from Machine Learning Decal (Sp19)
-# Syllabus from course
+## Syllabus from course
 
 Welcome to the Machine Learning Decal! In this course, you will discover how to analyze and manipulate data in Python, go over (and implement!) fundamental and practical statistical and deep learning learning models, as well as learn how to ask the right questions in order to tackle data-driven problems. 
 
